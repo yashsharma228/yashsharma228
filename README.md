@@ -6,7 +6,7 @@
 - Email : yashsharma4841@gmail.com
 - Trailhead : https://trailblazer.me/id/ysharma254
 - Linkedin : https://www.linkedin.com/in/yash-sharma-612a98205/ 
-
+- Twitter ( X ) : https://x.com/Yashsharma0228 
 <!---
 yashsharma228/yashsharma228 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
